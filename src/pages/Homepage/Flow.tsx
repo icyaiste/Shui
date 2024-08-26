@@ -7,7 +7,6 @@ import Message from "../../components/Message/Message";
 // Your web app's Firebase configuration
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
-  apiKey: "AIzaSyBFgIGChsuIIrODTCJckEKvxeGpWoRwmnI",
   authDomain: "shui-post-app.firebaseapp.com",
   projectId: "shui-post-app",
   storageBucket: "shui-post-app.appspot.com",
